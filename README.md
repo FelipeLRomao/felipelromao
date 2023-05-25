@@ -1,4 +1,5 @@
-## Ola Sejá Bem-vindo pegue um café ☕ e conheça meu projetos
+## Ola Sejá Bem-vindo pegue um café ☕ e conheça meus projetos
+# Frontend | Backend | Developer | Design 🎯💻🚀
 
 
 <div style="display: inline_block"><br>

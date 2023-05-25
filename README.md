@@ -20,5 +20,6 @@
   <a href="https://www.linkedin.com/in/felipeaugustoromao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<center>
 <img src="https://github.com/FelipeLRomao/felipelromao/assets/129228709/2dbde577-ee0d-49b4-a567-de0eb36ccd7f" />
+</center>

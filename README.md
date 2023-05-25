@@ -19,3 +19,5 @@
   <a href="https://www.linkedin.com/in/felipeaugustoromao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![JoyGIF](https://github.com/FelipeLRomao/felipelromao/assets/129228709/67ff0ae0-78a5-419c-b805-5e560bcbf920)

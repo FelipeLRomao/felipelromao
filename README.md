@@ -21,4 +21,4 @@
   
 </div>
 
-![JoyGIF](https://github.com/FelipeLRomao/felipelromao/assets/129228709/67ff0ae0-78a5-419c-b805-5e560bcbf920)
+<img src="https://github.com/FelipeLRomao/felipelromao/assets/129228709/2dbde577-ee0d-49b4-a567-de0eb36ccd7f" />

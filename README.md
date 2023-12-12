@@ -10,8 +10,10 @@
   <img align="center" alt="Node" height="70" width="80" src="https://www.shareicon.net/data/128x128/2015/10/06/112723_development_512x512.png">
   <img align="center" alt="Next" height="40" width="80" src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630">
   <img align="center" alt="Postgresql" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png">  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="boottrap" height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png">
+  <img align="center" alt="sass" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
  

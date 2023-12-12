@@ -8,7 +8,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
   <img align="center" alt="Node" height="60" width="70" src="https://www.shareicon.net/data/128x128/2015/10/06/112723_development_512x512.png">
-  <img align="center" alt="Node" height="60" width="70" src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630">
+  <img align="center" alt="Node" height="40" width="80" src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630">
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

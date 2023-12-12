@@ -3,10 +3,10 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
   <img align="center" alt="Node" height="70" width="80" src="https://www.shareicon.net/data/128x128/2015/10/06/112723_development_512x512.png">
   <img align="center" alt="Next" height="40" width="80" src="https://images.ctfassets.net/piwi0eufbb2g/2tanwYlvc27w41e445XOhk/2f4133ef0c0972f1feef02a2d8dc590e/nextjs.jpeg?w=1200&h=630">
   <img align="center" alt="React" height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png">

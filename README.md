@@ -20,10 +20,12 @@
 </div>
   
   ##
- 
+ # Contatos | Contacts
 <div>
   <a href = "mailto:felipe.romao@outlook.com"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/811px-Microsoft_Outlook_2013-2019_logo.svg.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeaugustoromao/" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipeaugustoromao/" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png" target="_blank"></a>
+  <a href="https://wa.me/5511944031910?text=Oi+tudo+bem+contigo%3F" target="_blank"><img height="40" width="40" src="https://download.logo.wine/logo/WhatsApp/WhatsApp-Logo.wine.png" target="_blank"></a>
   
 </div>
 <center>

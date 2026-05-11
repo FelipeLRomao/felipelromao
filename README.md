@@ -18,16 +18,6 @@
 
 ##
 
-# Contatos | Contacts
-
-<div>
-  <a href="mailto:felipe.romao@outlook.com"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/811px-Microsoft_Outlook_2013-2019_logo.svg.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipeaugustoromao/" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png" target="_blank"></a> 
-  <a href="https://wa.me/5511944031910?text=Oi+tudo+bem+contigo%3F" target="_blank"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2062095_application_chat_communication_logo_whatsapp_icon.svg/2048px-2062095_application_chat_communication_logo_whatsapp_icon.svg.png" target="_blank"></a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github.com/FelipeLRomao/felipelromao/assets/129228709/2dbde577-ee0d-49b4-a567-de0eb36ccd7f" width="80%" />
 </div>
